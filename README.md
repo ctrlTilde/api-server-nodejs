@@ -76,7 +76,7 @@ The SQLite Path is set in `.env`, as `SQLITE_PATH`
 
 ## ✨ API
 
-For a fast set-up, use this POSTMAN file: [api_sample](https://github.com/ctrltilde/api-server-nodejs-pro/blob/master/media/api.postman_collection.json)
+For a fast set-up, use this POSTMAN file: [api_sample](https://github.com/ctrltilde/api-server-nodejs-pro/blob/main/media/api.postman_collection.json)
 
 > 👉 **Register** - `api/users/register`
 
